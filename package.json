@@ -18,6 +18,21 @@
   },
   "license": "SEE LICENSE IN README.md",
   "dependencies": {
+    "angular": "*",
+    "angular-route": "*",
+    "angular-mocks": "*",
+    "bootstrap": "*",
+    "angular-translate": "*",
+    "proj4": "*",
+    "pouchdb": "~5.0.0",
+    "jasmine-ajax": "*",
+    "es5-shim": "*",
+    "jquery": "*",
+    "blob-util": "*",
+    "maplib": "https://github.com/kartverket/MapLib.git",
+    "xml-to-json": "*",
+    "angular-utils-pagination": "*",
+    "featherlight": "^1.6.1",
     "karma-es5-shim": "0.0.4"
   },
   "devDependencies": {
